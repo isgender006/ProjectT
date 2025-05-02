@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    [Header("References")]
+    [Header("MainMenu References")]
     [SerializeField] private GameObject _SettingMenu;
     [SerializeField] private GameObject _MainMenu;
     [SerializeField] private GameObject _RulesMenu;

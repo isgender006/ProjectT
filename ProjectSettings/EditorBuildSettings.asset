@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenuSence/ChooseGame.unity
     guid: 6714a256bdb56a94da50bc924abad941
   - enabled: 1
-    path: Assets/Scenes/FirstLevel.unity
+    path: Assets/Scenes/GameLevels/FirstLevel.unity
     guid: 44d2c6d9fab095940bf5c4a242e9a7c7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

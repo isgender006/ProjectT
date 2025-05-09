@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b26d3213d23ad147ae15e1c29cb378b, type: 3}
+  m_Name: TemirHan
+  m_EditorClassIdentifier: 
+  _CardName: Temirhan
+  _CardDescription: salamlar
+  _EnergyUse: 1
+  _CardHealth: 100
+  _CardPrice: 2
+  _CardDamage: 10
+  _CardPhoto: {fileID: 3439377161516823531, guid: 017358552baed444dbe63889632f2d28, type: 3}
